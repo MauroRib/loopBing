@@ -12,10 +12,10 @@
             //document.getElementById("list").innerHTML = listAsStr;
 
             var m = links.length, t, ix;
-                // While there remain elements to shuffle…
+                // While there remain elements to shuffle
             while (m) {
 
-                    // Pick a remaining element…
+                    // Pick a remaining element
                     ix = Math.floor(Math.random() * m--);
 
                 // And swap it with the current element.
@@ -24,7 +24,7 @@
                 links[ix] = t;
             };
 
-            //exibir lista após alterar
+            //exibir lista apos alterar
             //var list2 = links.map(name => "<li>" + name + "</li>");
             //var listAsStr2 = "<ul>" + list2.join("") + "<ul>";
 
