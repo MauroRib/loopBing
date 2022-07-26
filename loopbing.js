@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
     var links = ["xbox", "halo", "forza", "gears+of+war", "killer+instinct", "fable", "mortal+kombat", "dead+space", "batman", "witcher", "dragon+age", "mass+effect", "castlevania", "street+fighter", "skyrim", "fallout", "ori", "wolfenstein", "doom", "diablo", "forza+horizon", "banjo", "conker", "dishonored", "evil+within", "flight+simulator", "perfect+dark", "pillars+of+eternity", "prey", "psychonauts", "quake", "quantum+break", "alan+wake", "shadowrun", "sea+of+thieves", "starfield", "state+of+decay", "elder+scrolls", "outer+worlds", "viva+pinata", "wasteland", "we+happy+few", "far+cry", "assassins+creed", "injustice", "battletoads", "darksiders", "destiny", "just+cause", "arkham+city", "metal+gear", "gta", "dirt+rally", "assetto+corsa", "battlefield", "call+of+duty", "bayonetta", "bioshock", "bloodstained", "borderlands", "code+vein", "crash+bandicoot", "deus+ex", "devil+may+cry", "dying+light", "fatal+frame", "ghost+recon", "grid", "hellblade", "fenyx+rising", "kingdom+come", "la+noire", "mega+man", "lara+croft", "tomb+raider", "life+is+strange", "little+nightmares", "mad+max", "marvel+vs+capcom", "metro+2033", "need+for+speed", "nier", "ninja+gaiden", "outriders", "dark+alliance", "rare+replay", "red+dead+redemption", "remnant", "resident+evil", "sekiro", "dark+souls", "sid+meier+civilization", "sombras+de+mordor", "sonic", "sunset+overdrive", "tekken", "fatal+fury", "kof", "tetris", "ascent", "titanfall", "watch+dogs", "wreckfest", "trek+to+yomi", "tmnt", "unsighted", "chorus", "sniper+elite", "tunic", "binary+domain", "overcooked", "dead+cells", "alien+isolation", "apex+legends", "hades", "streets+of+rage", "golden+axe", "rocksmith", "darkest+dungeon", "cyberpunk+2077", "valfaris", "untitled+goose+game", "oxenfree", "rayman", "day+of+the+tentacle", "blasphemous", "shovel+knight", "carrion", "splinter+cell", "soulcalibur", "vampyr", "plague+tale", "project+cars", "anthem", "slain", "hollow+knight", "guacamelee", "ashen", "unravel", "cuphead", "zombie+army", "vanquish", "final+fight", "double+dragon", "oddworld", "recore", "wolf+among+us", "gwent", "elite+dangerous", "king+quest"];
     var i = 0;
 
@@ -56,4 +56,4 @@
         }                       //  ..  setTimeout()
         }, tempo)
         }
-</script>
+
