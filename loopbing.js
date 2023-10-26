@@ -48,7 +48,7 @@
         } else {
             comeco = 0
         };
-        var clink = "https://www.bing.com/search?q=" + links[(comeco + i)] + "&pq=abc";
+        var clink = "https://www.bing.com/search?q=" + links[(comeco + i)] + "&qs=n&form=QBRE&sp=-1&lq=0&pq=abc";
         window.open(clink, "plasma");
         i++;                    //  increment the counter
         if (i < qtd) {           //  if the counter < 10, call the loop function
