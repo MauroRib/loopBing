@@ -57,3 +57,24 @@
         }, tempo)
         }
 
+   function myLoop15(qtd,tempo) {         //  create a loop function
+        setTimeout(function () {   //  call a 3s setTimeout when the loop is called
+        if (qtd == 30) {
+            comeco = 20;
+        } else {
+            comeco = 0
+        };
+        var clink = "https://www.bing.com/search?q=" + links[(comeco + i)] + "&qs=n&form=QBRE&sp=-1&lq=0&pq=abc";
+        window.open(clink, "plasma");
+        if ( (i> 0) && (i % 3 == 0)) {
+            tempo = 20000;
+        } else {
+            tempo = 3000;
+        }
+            
+        i++;                    //  increment the counter
+        if (i < qtd) {           //  if the counter < 10, call the loop function
+            myLoop15(qtd, tempo);             //  ..  again which will trigger another 
+        }                       //  ..  setTimeout()
+        }, tempo)
+        }
